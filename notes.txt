@@ -1,0 +1,26 @@
+====>print(type(variable_name))====> define the type
+===> a=input()
+     b= input()
+     print(a+b)
+
+     input:
+       7
+       8
+     output:
+         78      bcz of in the input cases they stored as a string as default (if we        	 want to get a integer we want to mention its datatype )
+
+
+===> True and False [T&F shoudl be capital]
+        
+====> for print * methods we should use """"" end=("") """"
+===> { str=input("enter a string :")
+  	print(str[::-1])   } ----> to reverse the string 
+====> to get multi variables 
+	a,s,b,h=1,23,45,7
+===> to print multi varibles in single statement
+	print(a,s,b,h)
+==> valid for datatypes 
+	underscore,alphabets,sometimes keywords too 
+===>invaild for datatypes 
+       intital wid integer,spl characters,and indentations 
+
