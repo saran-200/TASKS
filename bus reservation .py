@@ -15,5 +15,6 @@ while (seats<=av_seats):
         print('booked seats',seats)
         print('availabe seats',av_seats)
     else:
-        print('insufficient seats')
+        print('insufficient seats')   
+    
 
