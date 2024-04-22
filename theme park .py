@@ -29,7 +29,6 @@ if( age>=10 and age<=60):
         print('amount for adluts',total1)
         print('kindly move to the adults zone in the right ')
         print('HAPPY JOURNEY')
-
     elif(age<=60 and age>=36):
         print('semi aged')
         count3=int(input('enter the count of semi aged persons'))
