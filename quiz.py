@@ -7,3 +7,4 @@ if(ans=="A" or ans=="a"):
     print('correct answerr')
 else:
     print('incorrect answer')
+print('thank you ')
