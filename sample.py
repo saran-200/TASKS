@@ -1,1 +1,2 @@
 print("heloos")
+print('hai')
